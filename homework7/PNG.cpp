@@ -21,9 +21,9 @@
 //
 //---------------------------------------------------------------------
 
-#include <string>
 #include "PNG.h"
 #include "Assert.h"
+#include <string>
 
 PNG::PNG() {
     width  = 0;
